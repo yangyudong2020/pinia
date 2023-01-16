@@ -30,8 +30,10 @@ footer: MIT Licensed | Copyright © 2019-present Eduardo San Martin Morote
 
 <HomeSponsors />
 
+```
 <script setup>
 import HomeSponsors from '../.vitepress/components/HomeSponsors.vue'
 import ThemeToggle from '../.vitepress/components/ThemeToggle.vue'
 // import TestStore from '../.vitepress/components/TestStore.vue'
 </script>
+```
